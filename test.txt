@@ -1,0 +1,72 @@
+                                       ***QUESTION PAPER***
+
+1)	A python package which stands for ‘Numerical Python’ is named and used as in python programs.                                    	a)SciPy						b)Pandas				c)NumPy						d)pyplot
+2)	To generate a NumPy array from given limits and number of elements required, _________ method is used.				a) numpy.array()			b)numpy.linspace()			c)numpy.arange()			d)numpy.ndarray()
+3)	array([2, 4, 6, 8, 10],									  [12, 14, 16, 18, 20],								  [22, 24, 26, 28, 30],								  [32, 34, 36, 38, 40] )							
+Ary[3, : :,-1] would yield								a) [32, 34, 36, 38, 40]								b) [40, 38, 36, 34, 32]								c) [22, 24, 26, 28, 30]								d) [30, 28, 26, 24, 22]
+4)	Write statements for the following:
+
+i) Create a Numpy array storing random integer in the range (0..5] and having 10 elements in it.
+
+ii) Create a 2 dimensional NumPy array storing random integers in the range (25..35] and having dimensions as 4x3.
+
+iii) Create a Numpy array storing floating point numbers in the range (0..1] and having dimensions as 3x2.
+
+iv) Create a Numpy array storing floating point numbers in the range (0..1] and having dimensions as 4x5.
+5)	Given an ndarray x as given below:
+
+>>>x=np.arange(10)
+print(x)
+
+array([ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ])
+
+Write statements to extract an array slice:
+
+i) from start to 4th position
+ii) from 4th to 6th position
+iii) from 4th position to end
+iv)  having elements at each even           	place in the ndarray		
+v)    having elements from first 		position, step by 2		
+vi)   having reversed elements of 		the array
+6)	What will be the output of the following:
+
+i) grid = np.array( [ [1, 2, 3,], 					[4, 5, 6,] ]) 	
+     np.concatenate( [grid, grid] )
+ii) np.concatenate( [grid, grid],  	axis=1)
+
+                                       ***QUESTION PAPER***
+
+1)	A python package which stands for ‘Numerical Python’ is named and used as in python programs.                                    	a)SciPy						b)Pandas				c)NumPy						d)pyplot
+2)	To generate a NumPy array from given limits and number of elements required, _________ method is used.				a) numpy.array()			b)numpy.linspace()			c)numpy.arange()			d)numpy.ndarray()
+3)	array([2, 4, 6, 8, 10],									  [12, 14, 16, 18, 20],								  [22, 24, 26, 28, 30],								  [32, 34, 36, 38, 40] )							
+Ary[3, : :,-1] would yield								a) [32, 34, 36, 38, 40]								b) [40, 38, 36, 34, 32]								c) [22, 24, 26, 28, 30]								d) [30, 28, 26, 24, 22]
+4)	Write statements for the following:
+
+i) Create a Numpy array storing random integer in the range (0..5] and having 10 elements in it.
+
+ii) Create a 2 dimensional NumPy array storing random integers in the range (25..35] and having dimensions as 4x3.
+
+iii) Create a Numpy array storing floating point numbers in the range (0..1] and having dimensions as 3x2.
+
+iv) Create a Numpy array storing floating point numbers in the range (0..1] and having dimensions as 4x5.
+5)	Given an ndarray x as given below:
+
+>>>x=np.arange(10)
+print(x)
+
+array([ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ])
+
+Write statements to extract an array slice:
+
+i) from start to 4th position
+ii) from 4th to 6th position
+iii) from 4th position to end
+iv)  having elements at each even           	place in the ndarray		
+v)    having elements from first 		position, step by 2		
+vi)   having reversed elements of 		the array
+6)	What will be the output of the following:
+
+i) grid = np.array( [ [1, 2, 3,], 					[4, 5, 6,] ]) 	
+     np.concatenate( [grid, grid] )
+ii) np.concatenate( [grid, grid],  	axis=1)
+
